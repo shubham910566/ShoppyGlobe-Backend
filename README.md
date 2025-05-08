@@ -31,7 +31,7 @@ http://localhost:5001
 
 - **Products Collection**  
    Products Collection: Populated with 10 products via seed.js
-  ![Products Collection](Screenshots/Product.png)
+  ![Products Collection](Screenshots/product.png)
 
 - **Cart Collection**   
   ![Cart Collection](Screenshots/cart_collection1.png)
