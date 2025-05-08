@@ -6,8 +6,8 @@ Provides RESTful APIs for managing products, cart functionality, and user authen
 ##  Setup
 
 ### 1. Clone Repository
-git clone https://github.com/your-username/shoppyglobe-backend.git  
-cd shoppyglobe-backend
+git clone https://github.com/shubham910566/ShoppyGlobe-Backend  
+cd ShoppyGlobe-Backend
 
 ### 2. Install Dependencies
 npm install
@@ -30,34 +30,34 @@ http://localhost:5001
 ###  MongoDB Collections
 
 - **Products Collection**  
-I added 10 products by seed.js
-  ![Products Collection](screenshots/Product.png)
+   Products Collection: Populated with 10 products via seed.js
+  ![Products Collection](Screenshots/Product.png)
 
 - **Cart Collection**   
-  ![Cart Collection](screenshots/cart_collection1.png)
+  ![Cart Collection](Screenshots/cart_collection1.png)
 
 ###  ThunderClient API Tests
 
 - GET /products  
-  ![GET Products](screenshots/GET_products.png)
+  ![GET Products](Screenshots/GET_products.png)
 
 - GET /products/:id  
-  ![GET Product by ID](screenshots/GET_product_by_id.png)
+  ![GET Product by ID](Screenshots/GET_product_by_id.png)
 
 - POST /auth/register  
-  ![POST Register](screenshots/POST_register.png)
+  ![POST Register](Screenshots/POST_register.png)
 
 - POST /auth/login  
-  ![POST Login](screenshots/POST_login.png)
+  ![POST Login](Screenshots/POST_login.png)
 
 - POST /cart  
-  ![POST Cart](screenshots/POST_cart.png)
+  ![POST Cart](Screenshots/POST_cart.png)
 
 - PUT /cart/:id
-  ![PUT Cart](screenshots/PUT_cart.png)
+  ![PUT Cart](Screenshots/PUT_cart.png)
 
 - DELETE /cart/:id  
-  ![DELETE Cart](screenshots/DELETE_cart.png)
+  ![DELETE Cart](Screenshots/DELETE_cart.png)
 
 
 
